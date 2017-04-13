@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478720211 source:c:\users\mohit malhotra\documents\code_blocks\shell_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
